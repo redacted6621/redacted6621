@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redacted6621
-- 👀 I’m interested in machine translation and NLP
+- 👀 I’m interested in https://xkcd.com/114/
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
